@@ -61,3 +61,56 @@ quick fast, easy to check → make the setup quick for family
 Init when get in hospital
 
 Delete when they go out
+
+
+## Idea #3
+Personalized app
+Support daily activity
+Focus on specific domain!
+
+Integrate apps to one system!
+
+Project management assistence! 
+
+Javis?
+
+Helpful mode!
+
+Productivity app? help users to work and address procasination!
+
+How to motivate users to work? 
+
+Timetable? 
+
+Improve calendar app -> automate filling data
+
+Time/Activity tracking?
+
+## Idea #4
+
+Knowledge management
+Support students
+Manage courses, timetable
+
+Managing deadline
+Managing notes, study
+
+Support students -> productivity -> plan what to study, in how long? -> require schedule courses? quiz? aassignment due? 
+
+Base: Support students to manage schedules, summarize notes for materials? Assume UMLearn support API or users input
+Recommend schedules
+Managing notes
+Managing times
+
+Data:
+Calendar: 
+- Course schedule
+- Exam date
+- Assignment due
+
+Source:
+- UMLearn
+- Student manually
+
+Project management
+
